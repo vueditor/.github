@@ -1,6 +1,6 @@
 # Vueditor
 
-Organization for editors and all the other stuffs.
+arious editors and all the other stuffs.
 
 ## Editors
 
